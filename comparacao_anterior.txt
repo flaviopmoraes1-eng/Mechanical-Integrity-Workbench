@@ -1,0 +1,4 @@
+
+- Os defeitos DDA1 e DDA2 no bocal A já constavam no relatório anterior, com dimensões semelhantes.
+- O defeito DDA3, na solda longitudinal do costado está 12% maior em comprimento e 21% maior em altura, indicando possível propagação estável.
+- Os demais defeitos não haviam sido detectados ainda; 

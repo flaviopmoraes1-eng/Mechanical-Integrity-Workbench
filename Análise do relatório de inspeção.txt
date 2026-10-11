@@ -1,0 +1,21 @@
+
+Análise do relatório de inspeção
+
+Relatório de UT Phased Array de 25/11/2026;
+
+7 defeitos tipo trincas nos bocais A1, A2 e solda longitudinal do costado;
+5 Defeitos embebidos e 2 superficiais de até 32% da espessura;
+
+Classificados como falta de fusão e inclusão de escória;
+
+2 defeitos maiores que o defeito de referencia;
+
+Todas as dimensões 2a, 2c e p extraídas para análise de criticidade
+
+Observações:
+
+1 - Dos 7 defeitos 1 possui profundidade maior que 20% da espessura, localizado na solda longitudinal;  
+2 - Especificação de materiais (ASTM A 285B, tipo A) de baixa tenacidade, verificar MAT;
+3 - Os defeitos superficiais podem ser inspecionados por LP e PM;
+
+ 
